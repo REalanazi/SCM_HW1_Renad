@@ -1,0 +1,1 @@
+Configuration management in software ensures consistency between releases, reduces errors, and improves collaboration between developers.
